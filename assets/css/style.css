@@ -1,4 +1,4 @@
-/*body*/
+/* body */
 body {
     background-image: url('background.gif');
     background-repeat: repeat;
@@ -11,9 +11,9 @@ body {
     background-color: #000;
     color: #eee;
 }
-/*body*/
+/* body */
 
-/*border*/
+/* border */
 .border {
     background-color: #724e932a;
     border: 2px solid #7a22cc63;
@@ -21,9 +21,9 @@ body {
     width: 400px;
     height: 600px;
 }
-/*border*/
+/* border */
 
-/*button*/
+/* button */
 .button {
     align-items: center;
     appearance: none;
@@ -158,9 +158,9 @@ body {
     box-shadow: #724e93 0 3px 7px inset;
     transform: translateY(2px);
 }
-/*button*/
+/* button */
 
-/*avatar*/
+/* avatar */
 .avatar-container {
     margin: 0 0.4em 0 0;
     display: inline-flex;
@@ -178,9 +178,9 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
-/*avatar*/
+/* avatar */
 
-/*center*/
+/* center */
 .center {
     position: absolute;
     top: 65%;
@@ -202,9 +202,9 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
-/*center*/
+/* center */
 
-/*typing effect*/
+/* typing effect */
 * {
     margin: 0;
     padding: 0;
@@ -245,4 +245,4 @@ body {
     99% { background-color: transparent; }
     100%  { background-color: #ccc; }
 }
-/*typing effect*/
+/* typing effect */
